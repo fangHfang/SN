@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 563258 */
+    src: url('https://at.alicdn.com/t/font_563258_wjnv102cpu8fr.eot');
+    src: url('https://at.alicdn.com/t/font_563258_wjnv102cpu8fr.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_563258_wjnv102cpu8fr.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_563258_wjnv102cpu8fr.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_563258_wjnv102cpu8fr.svg#iconfont') format('svg');
+}
+*{
+	margin: 0;
+	padding: 0;
+	font-style: normal;
+	text-decoration: none;
+	margin: 0 auto;
+  list-style: none;
+  
+}
+img{
+  width: 100%;
+  height: 100%;
+}
